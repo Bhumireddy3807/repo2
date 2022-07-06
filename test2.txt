@@ -1,12 +1,2 @@
- Volume in drive C is Windows
- Volume Serial Number is 9C20-8654
 
- Directory of C:\Users\kanna\Desktop\MyProject
-
-06-07-2022  11:08    <DIR>          .
-04-07-2022  10:34    <DIR>          ..
-27-06-2022  13:16                22 index.html
-27-06-2022  13:15                 8 test1.txt
-06-07-2022  11:08                 0 test2.txt
-               3 File(s)             30 bytes
-               2 Dir(s)  145,212,596,224 bytes free
+change 1
